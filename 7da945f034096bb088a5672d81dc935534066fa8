@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5fe42b7a_da308a33",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2024-05-30T13:19:58Z",
+      "side": 1,
+      "message": "Seems to work fine, allows `adb shell dumpsys thermalservice` to show temperatures, and may contribute somehow toward fixing \"Random FP5 soft reboot\" https://gitlab.com/CalyxOS/calyxos/-/issues/2210",
+      "revId": "7da945f034096bb088a5672d81dc935534066fa8",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
